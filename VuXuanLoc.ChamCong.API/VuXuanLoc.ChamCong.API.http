@@ -1,0 +1,6 @@
+@VuXuanLoc.ChamCong.API_HostAddress = http://localhost:5198
+
+GET {{VuXuanLoc.ChamCong.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
